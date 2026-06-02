@@ -1,0 +1,7 @@
+name = "cobalt2"
+display-name = "Cobalt2"
+description = "The legendary blue and yellow dark theme."
+version = "0.1.0"
+author = "Patryk Mroczyński"
+repository = "https://github.com/mroczynskip/cobalt2-lapce"
+color-themes = ["cobalt2.toml"]
